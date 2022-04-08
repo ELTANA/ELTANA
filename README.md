@@ -8,7 +8,7 @@
 
 ## My Stats
   [![ELTANA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELTANA&count_private=trfalseue&show_icons=true)](https://github.com/ELTANA/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELTANA&layout=compact&hide=html&langs_count=6)](https://github.com/ELTANA/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELTANA&layout=compact&hide=html&langs_count=10)](https://github.com/ELTANA/github-readme-stats)
 
 ### Developing Mobile Responsive Websites or Web Apps is a passion for me.
 #### I can convert any UI/UX design on Figma or Adobe XD into a Pixel-Perfect User interface using any of the following technologies:
