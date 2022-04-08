@@ -4,9 +4,8 @@
 
 ## ![](https://komarev.com/ghpvc/?username=ELTANA)
 
-## Work & Progress
-### `🌱 I'm Open to job offers` 
-### `👯 I’m looking to collaborate on creative projects`
+##### `🌱 I'm Open to job offers` 
+##### `👯 I’m looking to collaborate on creative projects`
 
 ## My Stats
   [![ELTANA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELTANA&count_private=trfalseue&show_icons=true)](https://github.com/ELTANA/github-readme-stats)
