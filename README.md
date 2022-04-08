@@ -1,6 +1,8 @@
 ### Hi There 👋 
-### ⚡You've Reached the Github Profile of: ![](https://komarev.com/ghpvc/?username=ELTANA)  
-## ✨Lotanna Kyrian A... _I am a JavaScript Software Developer_ (Front-End)✨
+### ⚡You've Reached the Github Profile of:   
+## ✨Lotanna Kyrian A... _I am a JavaScript Software Developer_ (Front-End)✨ 
+
+## ![](https://komarev.com/ghpvc/?username=ELTANA)
 
 ## Work & Progress
 ### `🌱 I'm Open to job offers` 
@@ -37,7 +39,7 @@
 ## You Can Connect With Me Via:
 - <a target="_blank" href="https://www.linkedin.com/in/kyrian-lotanna/">&#128084; LinkedIn</a>
 - <a target="_blank" href="https://twitter.com/deyjhi01?s=09">&#128038; Twitter</a>
-- <a target="_blank" href=href="mailto:kyrian.lotanna@gmail.com">&#9993; eMail</a>
+- <a target="_blank" href="mailto:kyrian.lotanna@gmail.com">&#9993; eMail</a>
 
 
 
