@@ -4,6 +4,8 @@
 
 ## ![](https://komarev.com/ghpvc/?username=ELTANA)
 
+
+## Work & Progress
 ##### `🌱 I'm Open to job offers` 
 ##### `👯 I’m looking to collaborate on creative projects`
 
