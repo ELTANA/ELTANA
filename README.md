@@ -1,15 +1,13 @@
 ### Hi There 👋 
 ### ⚡You've Reached the Github Profile of:   
-## ✨Lotanna Kyrian A... _I am a JavaScript Software Developer_ (Front-End)✨ 
-
-## ![](https://komarev.com/ghpvc/?username=ELTANA)
+## ✨Lotanna Kyrian A...✨ _I am a JavaScript Software Developer_ (Front-End)
 
 
 ## Work & Progress
 ##### `🌱 I'm Open to job offers` 
 ##### `👯 I’m looking to collaborate on creative projects`
 
-## My Stats
+## My Stats ![](https://komarev.com/ghpvc/?username=ELTANA)
   [![ELTANA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELTANA&count_private=trfalseue&show_icons=true)](https://github.com/ELTANA/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELTANA&layout=compact&hide=html&langs_count=10)](https://github.com/ELTANA/github-readme-stats)
 
