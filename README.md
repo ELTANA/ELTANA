@@ -1,6 +1,6 @@
 ### Hi👋
 
-### ✨I am _Lotanna Kyrian A._, a Software Developer (Front-End).✨
+### ✨I am Lotanna Kyrian A. _a Software Developer (Front-End)_✨
 
 ### 🔭 I’m currently working at Zuri Chat
 
