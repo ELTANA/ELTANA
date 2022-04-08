@@ -3,7 +3,7 @@
 ## ✨Lotanna Kyrian A... _I am a JavaScript Software Developer_ (Front-End)✨
 
 ## My Stats
-  [![ELTANA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELTANA&count_private=true&show_icons=true)](https://github.com/ELTANA/github-readme-stats)
+  [![ELTANA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ickynavigator&count_private=true&show_icons=true&theme=cobalt)](https://github.com/ELTANA/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELTANA&layout=compact&hide=html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Developing Mobile Responsive Websites or Web Apps is a passion for me.
