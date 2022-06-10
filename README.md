@@ -1,4 +1,4 @@
-### Hi There 👋 
+### Hi there 👋 
 ### ⚡You've Reached the Github Profile of:   
 ## ✨Lotanna Kyrian A...✨ _I am a JavaScript Software Developer_ (Front-End)
 
