@@ -34,11 +34,7 @@
   - Git & Github <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="github" height="20" style="vertical-align:top; margin:4px">
   - AJAX & APIs
   - SEO Optimization 
- 
-## You Can Connect With Me Via:
-- <a target="_blank" href="https://www.linkedin.com/in/kyrian-lotanna/">&#128084; LinkedIn</a>
-- <a target="_blank" href="https://twitter.com/deyjhi01?s=09">&#128038; Twitter</a>
-- <a target="_blank" href="mailto:kyrian.lotanna@gmail.com">&#9993; eMail</a>
+
 
 
 
